@@ -2,3 +2,7 @@
 	path = public
 	url = https://github.com/Kahila/kahila.github.io.git
 	branch = main
+[submodule "documentation/public"]
+	path = documentation/public
+	url = https://github.com/Kahila/kahila.github.io.git
+	branch = main
